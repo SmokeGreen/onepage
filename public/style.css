@@ -6,7 +6,7 @@ html, body {
 
 .page {
   height: 100%;
-  background-color: green;
+  background-color: darkgreen;
   color: whitesmoke;
   display: flex;
   flex-direction: column;
